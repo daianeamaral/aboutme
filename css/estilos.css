@@ -1,0 +1,35 @@
+body {
+    background-image: url('https://c.pxhere.com/photos/3d/52/architecture_black_and_white_black_and_white_curve_design_futuristic_lines_minimalism-1562841.jpg!d'); 
+    background-size: auto 100vh;
+    font-family: arial;
+    height: 100vh
+  }
+  
+  .menu {
+    background-color: gray;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .site-subtitle,
+  .site-title {
+    color: gray;
+    text-align: center;
+  }
+  
